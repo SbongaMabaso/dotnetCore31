@@ -17,3 +17,10 @@ D:\SbongaFolder\myCsharp\dotnetCore31\obj\Debug\netcoreapp3.1\dotnetCore31.Razor
 D:\SbongaFolder\myCsharp\dotnetCore31\obj\Debug\netcoreapp3.1\dotnetCore31.dll
 D:\SbongaFolder\myCsharp\dotnetCore31\obj\Debug\netcoreapp3.1\dotnetCore31.pdb
 D:\SbongaFolder\myCsharp\dotnetCore31\obj\Debug\netcoreapp3.1\dotnetCore31.genruntimeconfig.cache
+D:\SbongaFolder\myCsharp\dotnetCore31\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\SbongaFolder\myCsharp\dotnetCore31\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SbongaFolder\myCsharp\dotnetCore31\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SbongaFolder\myCsharp\dotnetCore31\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SbongaFolder\myCsharp\dotnetCore31\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SbongaFolder\myCsharp\dotnetCore31\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\SbongaFolder\myCsharp\dotnetCore31\obj\Debug\netcoreapp3.1\dotnetCore31.csproj.CopyComplete
