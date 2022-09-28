@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using dotnetCore31.Dtos.Character;
 using dotnetCore31.Models;
 using dotnetCore31.Services.CharacterService;
 using Microsoft.AspNetCore.Mvc;
@@ -36,7 +37,7 @@ namespace dotnetCore31.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddNewCharacter(Character newCharacter)
+        public async Task<IActionResult> AddNewCharacter(AddCharacterDto newCharacter)
         {
             return Ok(await _characterService.AddCharacter(newCharacter));
         }

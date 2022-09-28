@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "YbxzyWh0DsLmtuxlcAQni4OoyaNPF3Mxev5JDdHfgCFc9DIO7yiS3RXwBE7fH3cdLlDQjKvMsaod8JPB597fXw==",
+  "dgSpecHash": "nIJxJulOVEw4x9juH5opV3jVgsczAUD87q44GIwSuMKjiv28TC1KGw/W2ayi2n8cagw0aqsnemWRSWn6VjgRhA==",
   "success": true,
   "projectFilePath": "D:\\SbongaFolder\\myCsharp\\dotnetCore31\\dotnetCore31.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\WavesoftPC\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\WavesoftPC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\WavesoftPC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\WavesoftPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\WavesoftPC\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\WavesoftPC\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\WavesoftPC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
