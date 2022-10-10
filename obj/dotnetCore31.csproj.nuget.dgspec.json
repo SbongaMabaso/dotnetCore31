@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SbongaFolder\\myCsharp\\dotnetCore31\\dotnetCore31.csproj": {}
+    "C:\\Users\\SbongaMabaso\\Desktop\\myLearnings\\mycsharp\\dotnetCore31\\dotnetCore31.csproj": {}
   },
   "projects": {
-    "D:\\SbongaFolder\\myCsharp\\dotnetCore31\\dotnetCore31.csproj": {
+    "C:\\Users\\SbongaMabaso\\Desktop\\myLearnings\\mycsharp\\dotnetCore31\\dotnetCore31.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SbongaFolder\\myCsharp\\dotnetCore31\\dotnetCore31.csproj",
+        "projectUniqueName": "C:\\Users\\SbongaMabaso\\Desktop\\myLearnings\\mycsharp\\dotnetCore31\\dotnetCore31.csproj",
         "projectName": "dotnetCore31",
-        "projectPath": "D:\\SbongaFolder\\myCsharp\\dotnetCore31\\dotnetCore31.csproj",
-        "packagesPath": "C:\\Users\\WavesoftPC\\.nuget\\packages\\",
-        "outputPath": "D:\\SbongaFolder\\myCsharp\\dotnetCore31\\obj\\",
+        "projectPath": "C:\\Users\\SbongaMabaso\\Desktop\\myLearnings\\mycsharp\\dotnetCore31\\dotnetCore31.csproj",
+        "packagesPath": "C:\\Users\\SbongaMabaso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SbongaMabaso\\Desktop\\myLearnings\\mycsharp\\dotnetCore31\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\WavesoftPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SbongaMabaso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

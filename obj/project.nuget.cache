@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "nIJxJulOVEw4x9juH5opV3jVgsczAUD87q44GIwSuMKjiv28TC1KGw/W2ayi2n8cagw0aqsnemWRSWn6VjgRhA==",
+  "dgSpecHash": "u8NwOvurM9wJbcsx7da7cpWb6vKlIDkjiixy4sTgx/bL3foTRDsSn87DOOPH6wWi7/URYZZM/yk2V5lvjS2tvQ==",
   "success": true,
-  "projectFilePath": "D:\\SbongaFolder\\myCsharp\\dotnetCore31\\dotnetCore31.csproj",
+  "projectFilePath": "C:\\Users\\SbongaMabaso\\Desktop\\myLearnings\\mycsharp\\dotnetCore31\\dotnetCore31.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\WavesoftPC\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
-    "C:\\Users\\WavesoftPC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
-    "C:\\Users\\WavesoftPC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\WavesoftPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\WavesoftPC\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\WavesoftPC\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\WavesoftPC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\SbongaMabaso\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\SbongaMabaso\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\SbongaMabaso\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\SbongaMabaso\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SbongaMabaso\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\SbongaMabaso\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\SbongaMabaso\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
