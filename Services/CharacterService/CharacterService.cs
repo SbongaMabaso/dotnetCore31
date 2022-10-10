@@ -45,5 +45,27 @@ namespace dotnetCore31.Services.CharacterService
             serviceResponse.Data = _mapper.Map<GetCharacterDto>(characters.FirstOrDefault(c => c.Id == id));
             return serviceResponse;
         }
+
+        public async Task<ServiceResponse<GetCharacterDto>> UpdateCharacter(UpdateCharacterDto updateCharacter)
+        {
+            ServiceResponse<GetCharacterDto> serviceResponse = new ServiceResponse<GetCharacterDto>();
+            try {
+                Character character = characters.FirstOrDefault(c => c.Id == updateCharacter.Id);
+                character.Name = updateCharacter.Name;
+                character.Class = updateCharacter.Class;
+                character.Defense = updateCharacter.Defense;
+                character.HitPoint = updateCharacter.HitPoint;
+                character.Intelligence = updateCharacter.Intelligence;
+                character.Strength = updateCharacter.Strength;
+
+                serviceResponse.Data = _mapper.Map<GetCharacterDto>(character);
+                
+            } catch(Exception ex) {
+                serviceResponse.Success = false;
+                serviceResponse.Message = ex.Message;
+            }
+
+            return serviceResponse;
+        }
     }
 }
